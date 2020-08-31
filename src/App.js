@@ -1,6 +1,5 @@
 import React from 'react';
 import axios from 'axios';
-// import { connect } from 'react-redux';
 import { useDispatch } from 'react-redux';
 
 import { Header } from './components';
@@ -29,6 +28,8 @@ function App() {
 }
 
 export default App;
+
+// import { connect } from 'react-redux';
 
 // class App extends React.Component {
 //   componentDidMount() {
